@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
     "lib/saveassets.rb",
     "test/helper.rb",
     "test/test_saveassets.rb",
-    "vendor/assets/images/nivo/walletest.jpg"
+    "vendor/**/*"
   ]
   s.homepage = "http://github.com/saveologypaul/saveassets"
   s.licenses = ["MIT"]
